@@ -1,0 +1,152 @@
+body{
+    background-color: #f9fafc;
+}
+
+.Company{
+    font-family: 'Open Sans';
+    font-weight:  800;
+
+}
+
+.Menu{
+    
+    margin: auto;
+    padding: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Open Sans';
+    font-weight:800;
+    
+    
+
+}
+
+
+li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 25px;
+    
+
+}
+
+a:hover {
+    color: white;
+    background-color:#000;
+    padding: 35px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    
+    
+
+}
+
+a{
+    text-decoration: none;
+    color: #69696a;
+}
+
+h1{
+
+    font-family: 'Open Sans';
+    font-weight:  800;
+
+}
+
+p{
+
+    border-left-style: solid;
+    border-color: #69696a;
+    padding: 15px;
+    
+}
+
+.Sphere1{
+    width: 300px;
+    height: 300px;
+    border-radius: calc(300px/2);
+    right:0;
+    position: absolute;
+    margin-right: 25%;
+    background-color:rgba(247,136,167,0.6);
+    margin-top: 15%
+  
+
+}
+
+.Sphere2{
+    width: 180px;
+    height: 180px;
+    border-radius: calc(180px/2);
+    right:0;
+    position: relative;
+    margin-left: 72%;
+    background-color:rgba(207,130,213,0.6);
+    margin-top: 15%;
+    margin-bottom: 0;
+    
+
+    
+
+}
+
+.Sphere3{
+    width: 230px;
+    height: 230px;
+    border-radius: calc(230px/2);
+    right:0;
+    position: absolute;
+    margin-right: 15%;
+    background-color:rgba(247,193,162,0.7);
+    margin-top: 0;
+    
+}
+
+
+
+button{
+    color: white;
+    background-color:#000;
+    padding: 20px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-weight: 800;
+    
+}
+
+.Scroll{
+
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+h1{
+
+    
+    color: #000;
+
+
+}
+
+
+.paragraph{
+    color: #69696a;
+    margin-right: 50%;
+    margin-top: 10%;
+    padding: 5%;
+    left: 0;
+    float: right;  
+
+}
+
+
+
+
+
+
